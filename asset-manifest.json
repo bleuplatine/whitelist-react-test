@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/whitelist-react-test/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/whitelist-react-test/static/js/main.33f13d9e.chunk.js",
+    "main.js.map": "/whitelist-react-test/static/js/main.33f13d9e.chunk.js.map",
+    "runtime-main.js": "/whitelist-react-test/static/js/runtime-main.2aa85b67.js",
+    "runtime-main.js.map": "/whitelist-react-test/static/js/runtime-main.2aa85b67.js.map",
+    "static/css/2.429e79c4.chunk.css": "/whitelist-react-test/static/css/2.429e79c4.chunk.css",
+    "static/js/2.f9a95594.chunk.js": "/whitelist-react-test/static/js/2.f9a95594.chunk.js",
+    "static/js/2.f9a95594.chunk.js.map": "/whitelist-react-test/static/js/2.f9a95594.chunk.js.map",
+    "index.html": "/whitelist-react-test/index.html",
+    "precache-manifest.96cd7c72ac6e4d19de31116d3ad2d876.js": "/whitelist-react-test/precache-manifest.96cd7c72ac6e4d19de31116d3ad2d876.js",
+    "service-worker.js": "/whitelist-react-test/service-worker.js",
+    "static/css/2.429e79c4.chunk.css.map": "/whitelist-react-test/static/css/2.429e79c4.chunk.css.map",
+    "static/css/main.5e4e9510.chunk.css.map": "/whitelist-react-test/static/css/main.5e4e9510.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2aa85b67.js",
+    "static/css/2.429e79c4.chunk.css",
+    "static/js/2.f9a95594.chunk.js",
+    "static/css/main.5e4e9510.chunk.css",
+    "static/js/main.33f13d9e.chunk.js"
+  ]
+}
